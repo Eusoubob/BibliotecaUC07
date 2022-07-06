@@ -54,3 +54,6 @@ C:\Users\alyss\Desktop\Técnico em Informática para Internet\Módulo02\UC07\Bib
 C:\Users\alyss\Desktop\Técnico em Informática para Internet\Módulo02\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\listaDeUsuarios.cshtml.g.cs
 C:\Users\alyss\Desktop\Técnico em Informática para Internet\Módulo02\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\needAdmin.cshtml.g.cs
 C:\Users\alyss\Desktop\Técnico em Informática para Internet\Módulo02\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\registrarUsuarios.cshtml.g.cs
+C:\Users\alyss\Desktop\Técnico em Informática para Internet\Módulo02\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\alyss\Desktop\Técnico em Informática para Internet\Módulo02\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\alyss\Desktop\Técnico em Informática para Internet\Módulo02\UC07\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\excluirUsuario.cshtml.g.cs
